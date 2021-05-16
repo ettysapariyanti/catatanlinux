@@ -55,4 +55,40 @@ enp0s8  ethernet  connected  Wired connection 1
 lo      loopback  unmanaged  --
 ```
 
+Perintah untuk lainnya di Fedora 34 yang penting untuk mensetting jaringan:
+```text
+ifconfig -a
+```
+
+maka contoh hasil perintah di atas:
+```text
+enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.1.4  netmask 255.255.255.0  broadcast 192.168.1.255
+        inet6 fe80::a00:27ff:fe9f:3466  prefixlen 64  scopeid 0x20<link>
+        ether 08:00:27:9f:34:66  txqueuelen 1000  (Ethernet)
+        RX packets 433  bytes 44679 (43.6 KiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 385  bytes 44255 (43.2 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+enp0s8: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 1.1.5.1  netmask 255.255.255.252  broadcast 1.1.5.3
+        inet6 fe80::d474:fd2d:1019:b7fc  prefixlen 64  scopeid 0x20<link>
+        ether 08:00:27:2f:e3:a9  txqueuelen 1000  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 24  bytes 1732 (1.6 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 4  bytes 424 (424.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 4  bytes 424 (424.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+ ```text
+ 
+ 
 
