@@ -88,7 +88,7 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
         RX errors 0  dropped 0  overruns 0  frame 0
         TX packets 4  bytes 424 (424.0 B)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
- ```text
+ ```
  
  
 
