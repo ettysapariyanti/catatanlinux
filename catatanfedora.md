@@ -55,10 +55,11 @@ enp0s8  ethernet  connected  Wired connection 1
 lo      loopback  unmanaged  --
 ```
 
-Perintah untuk lainnya di Fedora 34 yang penting untuk mensetting jaringan:
+Perintah lainnya di Fedora 34 yang penting untuk mensetting jaringan:
 ```text
 ifconfig -a
 ```
+Perintah ini juga berfungsi untuk melihat status/info interface-interface jaringan di Fedora 34.
 
 maka contoh hasil perintah di atas:
 ```text
