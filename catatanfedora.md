@@ -21,12 +21,15 @@ Berguna untuk memblokir iklan-iklan di website-website, mengamati situs-situs ap
 Untuk memanfaatkan IP Publik yg cuma 1 buah dan 1 port, namun dari internet bisa mengakses berbagai komputer dan server yg ada di belakang proxy. nantinya nama domain bisa dipanjangkan, untuk mengakses server dan perangkat perangkat yg berbeda dari internet. Contoh:
 
 server1.pisang.com
+
 server2.pisang.com
 
 laptop1.pisang.com
+
 laptop2.pisang.com
 
 pc1.pisang.com
+
 pc2.pisang.com
 
 
