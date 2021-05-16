@@ -42,6 +42,17 @@ IP		    Mask			        Notes ...
 1.1.1.3		255.255.255.252		Broadcast Address
 ```
 
+Perintah **nmcli** untuk menampilkan status interface-interface network di **Fedora 34** :
+```text
+nmcli dev status
+```
 
+maka contoh hasil perintah di atas :
+```text
+DEVICE  TYPE      STATE      CONNECTION
+enp0s3  ethernet  connected  enp0s3
+enp0s8  ethernet  connected  Wired connection 1
+lo      loopback  unmanaged  --
+```
 
 
