@@ -91,5 +91,8 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
  ```
  
- 
+ Ini perintah yang penting untuk melihat **UUID** dari interface jaringan di Fedora 34. Dikarenakan UUID ini berfungsi untuk mensetting IP statik :
+ ```text
+ nmcli con show -a
+ ```
 
