@@ -30,3 +30,15 @@ pc1.pisang.com
 pc2.pisang.com
 
 
+Karena cuma mau menghubungkan 2 buah komputer, maka hitungan IP Address seperti ini sudah cukup:
+```text
+IP		    Mask			        Notes ...
+1.1.1.0		255.255.255.252		Subnet Address
+1.1.1.1		255.255.255.252	
+1.1.1.2		255.255.255.252	
+1.1.1.3		255.255.255.252		Broadcast Address
+```
+
+
+
+
