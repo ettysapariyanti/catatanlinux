@@ -102,3 +102,12 @@ NAME                UUID                                  TYPE      DEVICE
 enp0s3              b9532473-c3e4-3579-95d3-f548a1c918fd  ethernet  enp0s3
 Wired connection 1  8d9f4859-91c4-33d2-be3a-62ae7688b357  ethernet  enp0s8
 ```
+
+## IPTables
+
+Perintah untuk melihat aturan IPTables yg sedang berjalan:
+
+```text
+iptables -L
+```
+
