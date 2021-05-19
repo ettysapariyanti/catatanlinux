@@ -15,3 +15,9 @@ Referensi:
 
 https://www.cyberciti.biz/faq/show-ethernet-adapter-ubuntu-linux/
 
+
+Perintah untuk enable network card menggunakan logical name:
+```text
+ifconfig enp0s8 up
+```
+
