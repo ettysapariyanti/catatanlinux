@@ -25,3 +25,9 @@ Referensi:
 
 https://askubuntu.com/questions/965343/enabling-and-disabling-network-card-through-commandline
 
+
+Cara menambah dan mensetting network card di Ubuntu 20.04:
+
+https://linuxhint.com/ubuntu_20-04_network_configuration/
+
+
