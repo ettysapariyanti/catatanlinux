@@ -21,3 +21,7 @@ Perintah untuk enable network card menggunakan logical name:
 ifconfig enp0s8 up
 ```
 
+Referensi:
+
+https://askubuntu.com/questions/965343/enabling-and-disabling-network-card-through-commandline
+
