@@ -10,3 +10,8 @@ Perintah untuk menampilkan Mac Address dari perangkat Ethernet card:
 ```text
 lshw -C network
 ```
+
+Referensi:
+
+https://www.cyberciti.biz/faq/show-ethernet-adapter-ubuntu-linux/
+
