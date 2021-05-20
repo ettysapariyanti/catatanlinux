@@ -31,3 +31,9 @@ Cara menambah dan mensetting network card di Ubuntu 20.04:
 https://linuxhint.com/ubuntu_20-04_network_configuration/
 
 
+Tutorial bagus untuk setting IPTables:
+
+https://youtu.be/XKfhOQWrUVw
+
+
+
