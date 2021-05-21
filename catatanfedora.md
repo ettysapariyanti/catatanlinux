@@ -111,3 +111,8 @@ Perintah untuk melihat aturan IPTables yg sedang berjalan:
 iptables -L
 ```
 
+Cek status IPTables yang sedang berjalan:
+```text
+iptables -L -v
+```
+
