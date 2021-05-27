@@ -16,9 +16,9 @@ printf "$tanggal \n"
 
 
 
-* * Salurkan donasi anda sebesar Rp 10.000 melalui : https://saweria.co/simpananfilepenting
-Terimakasih * *
+_Salurkan donasi anda sebesar Rp 10.000 melalui : https://saweria.co/simpananfilepenting
+Terimakasih_
 
-* * Please, send your donation as much as 1 USD through this link: https://paypal.me/ibnuchalid00
-Thank you * *
+_Please, send your donation as much as 1 USD through this link: https://paypal.me/ibnuchalid00
+Thank you_
 
