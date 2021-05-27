@@ -11,3 +11,14 @@ tanggal=$(date)
 printf "$tanggal \n"
 ```
 
+
+
+
+
+
+* * Salurkan donasi anda sebesar Rp 10.000 melalui : https://saweria.co/simpananfilepenting
+Terimakasih * *
+
+* * Please, send your donation as much as 1 USD through this link: https://paypal.me/ibnuchalid00
+Thank you * *
+
