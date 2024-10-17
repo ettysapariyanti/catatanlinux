@@ -9,3 +9,6 @@ https://www.nerdfonts.com/
 sesuai requirement yang ada di sini:
 
 https://www.lazyvim.org/
+
+pertama kita belajar menambahkan font ke system manjaro, font yang mau di tambahkan adalah Nerdfont : 
+
